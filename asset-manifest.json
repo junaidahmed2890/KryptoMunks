@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KryptoMunks/static/css/main.35a33df6.css",
-    "main.js": "/KryptoMunks/static/js/main.9b213e5e.js",
+    "main.js": "/KryptoMunks/static/js/main.88ae2112.js",
     "static/js/787.28d1ee6a.chunk.js": "/KryptoMunks/static/js/787.28d1ee6a.chunk.js",
     "static/media/brand1.png": "/KryptoMunks/static/media/brand1.763bb49cbfe8b0a291f3.png",
     "static/media/brand2.png": "/KryptoMunks/static/media/brand2.0b0573addbf8042c4cbc.png",
@@ -9,11 +9,11 @@
     "static/media/brands4.png": "/KryptoMunks/static/media/brands4.5524b307838c154e2ef1.png",
     "index.html": "/KryptoMunks/index.html",
     "main.35a33df6.css.map": "/KryptoMunks/static/css/main.35a33df6.css.map",
-    "main.9b213e5e.js.map": "/KryptoMunks/static/js/main.9b213e5e.js.map",
+    "main.88ae2112.js.map": "/KryptoMunks/static/js/main.88ae2112.js.map",
     "787.28d1ee6a.chunk.js.map": "/KryptoMunks/static/js/787.28d1ee6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35a33df6.css",
-    "static/js/main.9b213e5e.js"
+    "static/js/main.88ae2112.js"
   ]
 }
