@@ -41,4 +41,12 @@ export const TEAM_MEMBERS = [
     user_photo:
       "https://media-exp1.licdn.com/dms/image/C4D03AQFsiIZ6a1dYZw/profile-displayphoto-shrink_100_100/0/1655753685536?e=1675900800&v=beta&t=3iSXuls6EqR8E0jl6LM4lG0ilZqLmTZOn2XRkWTeByY",
   },
+
+  {
+    id: 7,
+    user_name: "Badar Mahmood",
+    user_designation: "SQA Engineer",
+    user_photo:
+      "https://media-exp1.licdn.com/dms/image/C4E03AQEjMezo6DFi-w/profile-displayphoto-shrink_100_100/0/1644378584412?e=1675900800&v=beta&t=eLrjYCCb2ePsx922UiMZbQemnY-K-YVV-LWzUXiFtcE",
+  },
 ];
